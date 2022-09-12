@@ -1,0 +1,27 @@
+{
+  "name": "chinavis2022",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "core-js": "^3.8.3",
+    "echarts": "^5.3.3",
+    "echarts-gl": "^2.0.9",
+    "element-ui": "^2.15.9",
+    "jquery": "^3.6.0",
+    "vue": "^2.6.14",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}

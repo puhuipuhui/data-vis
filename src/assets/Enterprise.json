@@ -1,0 +1,2116 @@
+{
+  "bj": [
+    {
+      "id": "id",
+      "year": "year",
+      "workUnit": "企业名称",
+      "trade": "核算行业",
+      "regionalLevel": "所属区"
+    },
+    {
+      "id": 1,
+      "year": 2020,
+      "workUnit": "北京燕厦物业管理有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 2,
+      "year": 2020,
+      "workUnit": "北京财贸职业学院（北京市财贸管理干部学院）",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 3,
+      "year": 2020,
+      "workUnit": "北京国瑞兴业商业管理有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 4,
+      "year": 2020,
+      "workUnit": "首都医科大学附属北京妇产医院",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 5,
+      "year": 2020,
+      "workUnit": "北京鼎铭物业管理有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 6,
+      "year": 2020,
+      "workUnit": "柒一拾壹（北京）有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 7,
+      "year": 2020,
+      "workUnit": "北京市北京饭店",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 8,
+      "year": 2020,
+      "workUnit": "北京金鼎轩酒楼有限责任公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 9,
+      "year": 2020,
+      "workUnit": "故宫博物院",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 10,
+      "year": 2020,
+      "workUnit": "中央戏剧学院",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 11,
+      "year": 2020,
+      "workUnit": "北京国际饭店有限责任公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 12,
+      "year": 2020,
+      "workUnit": "北京华海金宝房地产开发有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 13,
+      "year": 2020,
+      "workUnit": "王府饭店有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 14,
+      "year": 2020,
+      "workUnit": "首都医科大学附属北京中医医院",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 15,
+      "year": 2020,
+      "workUnit": "王府井集团股份有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 16,
+      "year": 2020,
+      "workUnit": "北京新捷房地产开发有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 17,
+      "year": 2020,
+      "workUnit": "中冶置业集团北京物业管理有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 18,
+      "year": 2020,
+      "workUnit": "北京中医药大学东直门医院",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 19,
+      "year": 2020,
+      "workUnit": "北京戴德梁行物业管理有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 20,
+      "year": 2020,
+      "workUnit": "中国电信股份有限公司北京分公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 21,
+      "year": 2020,
+      "workUnit": "中国移动通信集团北京有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 22,
+      "year": 2020,
+      "workUnit": "北京首华物业管理有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 23,
+      "year": 2020,
+      "workUnit": "北京肯德基有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 24,
+      "year": 2020,
+      "workUnit": "北京稻香村食品有限责任公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 25,
+      "year": 2020,
+      "workUnit": "首都医科大学附属北京天坛医院",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 26,
+      "year": 2020,
+      "workUnit": "中国医学科学院北京协和医院",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 27,
+      "year": 2020,
+      "workUnit": "北京麦当劳食品有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 28,
+      "year": 2020,
+      "workUnit": "北京东方广场有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 29,
+      "year": 2020,
+      "workUnit": "北京光环新网科技股份有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 30,
+      "year": 2020,
+      "workUnit": "中国食品药品检定研究院",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 31,
+      "year": 2020,
+      "workUnit": "北京泰利丰瑞物业管理有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 32,
+      "year": 2020,
+      "workUnit": "中国银行股份有限公司北京市分行",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 33,
+      "year": 2020,
+      "workUnit": "北京医院",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 34,
+      "year": 2020,
+      "workUnit": "北京银达物业管理有限责任公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 35,
+      "year": 2020,
+      "workUnit": "昆仑数智科技有限责任公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 36,
+      "year": 2020,
+      "workUnit": "华夏银行股份有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 37,
+      "year": 2020,
+      "workUnit": "北京新中纺正金物业管理有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 38,
+      "year": 2020,
+      "workUnit": "北京市公安局东城分局",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 39,
+      "year": 2020,
+      "workUnit": "首都医科大学附属北京同仁医院",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 40,
+      "year": 2020,
+      "workUnit": "国家体育总局训练局",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 41,
+      "year": 2020,
+      "workUnit": "北京国天物业管理发展有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 42,
+      "year": 2020,
+      "workUnit": "北京必胜客比萨饼有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 43,
+      "year": 2020,
+      "workUnit": "中国国家博物馆",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 44,
+      "year": 2020,
+      "workUnit": "北京市民政局房产管理所",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 45,
+      "year": 2020,
+      "workUnit": "北京便宜坊烤鸭集团有限公司",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    },
+    {
+      "id": 46,
+      "year": 2020,
+      "workUnit": "工人日报社",
+      "trade": "其他服务行业",
+      "regionalLevel": "东城区"
+    }
+  ],
+  "tj": [
+    {
+      "id": 2223,
+      "year": 2020,
+      "workUnit": "天津石化液化空气气体有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2224,
+      "year": 2020,
+      "workUnit": "液化空气永利（天津）有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2225,
+      "year": 2020,
+      "workUnit": "天津盈德气体有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2226,
+      "year": 2020,
+      "workUnit": "天津天铁炼焦化工有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2227,
+      "year": 2020,
+      "workUnit": "空气化工产品（天津）有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2228,
+      "year": 2020,
+      "workUnit": "天津宝洁工业有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2229,
+      "year": 2020,
+      "workUnit": "天津东洋油墨有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2230,
+      "year": 2020,
+      "workUnit": "中国石化集团资产经营管理有限公司天津石化分公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2231,
+      "year": 2020,
+      "workUnit": "中国石油化工股份有限公司天津分公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2232,
+      "year": 2020,
+      "workUnit": "中国石油天然气股份有限公司大港石化分公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2233,
+      "year": 2020,
+      "workUnit": "中沙（天津）石化有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2234,
+      "year": 2020,
+      "workUnit": "中国石油天然气股份有限公司大港油田分公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2235,
+      "year": 2020,
+      "workUnit": "大港油田集团有限责任公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2236,
+      "year": 2020,
+      "workUnit": "中国石油集团渤海钻探工程有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2237,
+      "year": 2020,
+      "workUnit": "中海石油（中国）有限公司天津分公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2238,
+      "year": 2020,
+      "workUnit": "华能临港（天津）燃气热电有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2239,
+      "year": 2020,
+      "workUnit": "天津滨海电力有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2240,
+      "year": 2020,
+      "workUnit": "天津国能津能滨海热电有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2241,
+      "year": 2020,
+      "workUnit": "天津华电福源热电有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2242,
+      "year": 2020,
+      "workUnit": "天津市飞龙制管有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2243,
+      "year": 2020,
+      "workUnit": "天津市新天钢冷轧薄板有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2244,
+      "year": 2020,
+      "workUnit": "天津达祥精密工业有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2245,
+      "year": 2020,
+      "workUnit": "天津新伟祥工业有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2246,
+      "year": 2020,
+      "workUnit": "天津峰利蒙瑞特实业有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2247,
+      "year": 2020,
+      "workUnit": "天津海钢板材有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2248,
+      "year": 2020,
+      "workUnit": "天津舜新钢板有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2249,
+      "year": 2020,
+      "workUnit": "天津市富鑫金属制品有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2250,
+      "year": 2020,
+      "workUnit": "天津市友发德众钢管有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2251,
+      "year": 2020,
+      "workUnit": "天津君诚管道实业集团有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2252,
+      "year": 2020,
+      "workUnit": "天津渤化澳佳永利化工有限责任公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2253,
+      "year": 2020,
+      "workUnit": "天津渤海石化有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2254,
+      "year": 2020,
+      "workUnit": "天津耀皮玻璃有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2255,
+      "year": 2020,
+      "workUnit": "台玻天津玻璃有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2256,
+      "year": 2020,
+      "workUnit": "天津中玻北方新材料有限责任公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2257,
+      "year": 2020,
+      "workUnit": "信义玻璃（天津）有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2258,
+      "year": 2020,
+      "workUnit": "天津金隅振兴环保科技有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2259,
+      "year": 2020,
+      "workUnit": "玖龙纸业（天津）有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2260,
+      "year": 2020,
+      "workUnit": "天津滨海国际机场有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2261,
+      "year": 2020,
+      "workUnit": "天津天保能源股份有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2262,
+      "year": 2020,
+      "workUnit": "天津华电南疆热电有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2263,
+      "year": 2020,
+      "workUnit": "天津华电北宸分布式能源有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2264,
+      "year": 2020,
+      "workUnit": "天津市宇润德金属制品有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2265,
+      "year": 2020,
+      "workUnit": "天津友发钢管集团股份有限公司第二分公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2266,
+      "year": 2020,
+      "workUnit": "天津盛隆钢铁制造有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    },
+    {
+      "id": 2267,
+      "year": 2020,
+      "workUnit": "天津广聚源纸业集团有限公司",
+      "trade": "",
+      "regionalLevel": "天津"
+    }
+  ],
+  "gd": [
+    {
+      "id": 1,
+      "year": 2020,
+      "workUnit": "广州市番禺裕丰钢铁有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "广州市"
+    },
+    {
+      "id": 2,
+      "year": 2020,
+      "workUnit": "广州JFE钢板有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "广州市"
+    },
+    {
+      "id": 3,
+      "year": 2020,
+      "workUnit": "鞍钢联众（广州）不锈钢有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "广州市"
+    },
+    {
+      "id": 4,
+      "year": 2020,
+      "workUnit": "珠海粤裕丰钢铁有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "珠海市"
+    },
+    {
+      "id": 5,
+      "year": 2020,
+      "workUnit": "广东联钢薄板有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "佛山市"
+    },
+    {
+      "id": 6,
+      "year": 2020,
+      "workUnit": "佛山津西金兰冷轧板有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "佛山市"
+    },
+    {
+      "id": 7,
+      "year": 2020,
+      "workUnit": "佛山市高明基业冷轧钢板有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "佛山市"
+    },
+    {
+      "id": 8,
+      "year": 2020,
+      "workUnit": "佛山市诚德新材料有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "佛山市"
+    },
+    {
+      "id": 9,
+      "year": 2020,
+      "workUnit": "广东威恳钢铁有限公司（原广东顺德浦项钢板有限公司）",
+      "trade": "钢铁",
+      "regionalLevel": "佛山市"
+    },
+    {
+      "id": 10,
+      "year": 2020,
+      "workUnit": "韶关市宏德热轧带钢有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "韶关市"
+    },
+    {
+      "id": 11,
+      "year": 2020,
+      "workUnit": "宝武集团广东韶关钢铁有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "韶关市"
+    },
+    {
+      "id": 12,
+      "year": 2020,
+      "workUnit": "广东粤韶钢铁有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "韶关市"
+    },
+    {
+      "id": 13,
+      "year": 2020,
+      "workUnit": "宝钢湛江钢铁有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "湛江市"
+    },
+    {
+      "id": 14,
+      "year": 2020,
+      "workUnit": "江门市华津金属制品有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "江门市"
+    },
+    {
+      "id": 15,
+      "year": 2020,
+      "workUnit": "江门市新会亿利精密钢管厂有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "江门市"
+    },
+    {
+      "id": 16,
+      "year": 2020,
+      "workUnit": "华冠新型材料股份有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "江门市"
+    },
+    {
+      "id": 17,
+      "year": 2020,
+      "workUnit": "台山市宝丰钢铁有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "江门市"
+    },
+    {
+      "id": 18,
+      "year": 2020,
+      "workUnit": "江门市华睦五金有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "江门市"
+    },
+    {
+      "id": 19,
+      "year": 2020,
+      "workUnit": "广东友钢钢铁有限公司博罗分公司",
+      "trade": "钢铁",
+      "regionalLevel": "惠州市"
+    },
+    {
+      "id": 20,
+      "year": 2020,
+      "workUnit": "惠东县华业铸造厂",
+      "trade": "钢铁",
+      "regionalLevel": "惠州市"
+    },
+    {
+      "id": 21,
+      "year": 2020,
+      "workUnit": "惠州市桔顺钢铁厂",
+      "trade": "钢铁",
+      "regionalLevel": "惠州市"
+    },
+    {
+      "id": 22,
+      "year": 2020,
+      "workUnit": "丰顺县农械连铸厂",
+      "trade": "钢铁",
+      "regionalLevel": "梅州市"
+    },
+    {
+      "id": 23,
+      "year": 2020,
+      "workUnit": "丰顺永顺连铸厂",
+      "trade": "钢铁",
+      "regionalLevel": "梅州市"
+    },
+    {
+      "id": 24,
+      "year": 2020,
+      "workUnit": "丰顺县鸿宝实业有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "梅州市"
+    },
+    {
+      "id": 25,
+      "year": 2020,
+      "workUnit": "丰顺县东方金属连铸有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "梅州市"
+    },
+    {
+      "id": 26,
+      "year": 2020,
+      "workUnit": "连平县粤盛兴钢铁实业有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "河源市"
+    },
+    {
+      "id": 27,
+      "year": 2020,
+      "workUnit": "河源市华成金属制品有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "河源市"
+    },
+    {
+      "id": 28,
+      "year": 2020,
+      "workUnit": "河源市源城华发金属制品有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "河源市"
+    },
+    {
+      "id": 29,
+      "year": 2020,
+      "workUnit": "广东粤东钢铁有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "河源市"
+    },
+    {
+      "id": 30,
+      "year": 2020,
+      "workUnit": "河源德润钢铁有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "河源市"
+    },
+    {
+      "id": 31,
+      "year": 2020,
+      "workUnit": "龙川县航辉钢业有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "河源市"
+    },
+    {
+      "id": 32,
+      "year": 2020,
+      "workUnit": "和平县粤深钢实业有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "河源市"
+    },
+    {
+      "id": 33,
+      "year": 2020,
+      "workUnit": "紫金县东日铸造有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "河源市"
+    },
+    {
+      "id": 34,
+      "year": 2020,
+      "workUnit": "广东盛业钢铁有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "河源市"
+    },
+    {
+      "id": 35,
+      "year": 2020,
+      "workUnit": "东源恒昌五金制品厂",
+      "trade": "钢铁",
+      "regionalLevel": "河源市"
+    },
+    {
+      "id": 36,
+      "year": 2020,
+      "workUnit": "东源县东南实业有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "河源市"
+    },
+    {
+      "id": 37,
+      "year": 2020,
+      "workUnit": "阳春新钢铁有限责任公司",
+      "trade": "钢铁",
+      "regionalLevel": "阳江市"
+    },
+    {
+      "id": 38,
+      "year": 2020,
+      "workUnit": "清远市花城五金铸造有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "清远市"
+    },
+    {
+      "id": 39,
+      "year": 2020,
+      "workUnit": "圣力（清远）钢制品有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "清远市"
+    },
+    {
+      "id": 40,
+      "year": 2020,
+      "workUnit": "广东粤北联合钢铁有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "清远市"
+    },
+    {
+      "id": 41,
+      "year": 2020,
+      "workUnit": "广东省佛冈金城金属制品有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "清远市"
+    },
+    {
+      "id": 42,
+      "year": 2020,
+      "workUnit": "英德市粤华铸造有限责任公司",
+      "trade": "钢铁",
+      "regionalLevel": "清远市"
+    },
+    {
+      "id": 43,
+      "year": 2020,
+      "workUnit": "清远市泰业金属模具制品有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "清远市"
+    },
+    {
+      "id": 44,
+      "year": 2020,
+      "workUnit": "粤海中粤（中山）马口铁工业有限公司（原中山中粤马口铁工业有限公司）",
+      "trade": "钢铁",
+      "regionalLevel": "中山市"
+    },
+    {
+      "id": 45,
+      "year": 2020,
+      "workUnit": "揭阳市通宇钢铁有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "揭阳市"
+    },
+    {
+      "id": 46,
+      "year": 2020,
+      "workUnit": "广东友钢钢铁有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "揭阳市"
+    },
+    {
+      "id": 47,
+      "year": 2020,
+      "workUnit": "广东大兴钢铁实业有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "揭阳市"
+    },
+    {
+      "id": 48,
+      "year": 2020,
+      "workUnit": "广东开盛钢铁实业有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "揭阳市"
+    },
+    {
+      "id": 49,
+      "year": 2020,
+      "workUnit": "广东国鑫实业股份有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "揭阳市"
+    },
+    {
+      "id": 50,
+      "year": 2020,
+      "workUnit": "广东大明钢铁实业有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "揭阳市"
+    },
+    {
+      "id": 51,
+      "year": 2020,
+      "workUnit": "广东泰都钢铁实业股份有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "揭阳市"
+    },
+    {
+      "id": 52,
+      "year": 2020,
+      "workUnit": "广州大学城华电新能源有限公司",
+      "trade": "电力",
+      "regionalLevel": "广州市"
+    },
+    {
+      "id": 53,
+      "year": 2020,
+      "workUnit": "广州协鑫蓝天燃气热电有限公司",
+      "trade": "电力",
+      "regionalLevel": "广州市"
+    },
+    {
+      "id": 54,
+      "year": 2020,
+      "workUnit": "广州珠江天然气发电有限公司",
+      "trade": "电力",
+      "regionalLevel": "广州市"
+    },
+    {
+      "id": 55,
+      "year": 2020,
+      "workUnit": "广州东方电力有限公司",
+      "trade": "电力",
+      "regionalLevel": "广州市"
+    },
+    {
+      "id": 56,
+      "year": 2020,
+      "workUnit": "广州珠江电力有限公司",
+      "trade": "电力",
+      "regionalLevel": "广州市"
+    },
+    {
+      "id": 57,
+      "year": 2020,
+      "workUnit": "广东粤华发电有限责任公司",
+      "trade": "电力",
+      "regionalLevel": "广州市"
+    }
+  ],
+  "sh": [
+    {
+      "id": 1242,
+      "year": 2019,
+      "workUnit": "宝山钢铁股份有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1243,
+      "year": 2019,
+      "workUnit": "宝钢特钢有限公司 (包括宝钢特钢长材有限公司）",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1244,
+      "year": 2019,
+      "workUnit": "宝钢新日铁汽车板有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1245,
+      "year": 2019,
+      "workUnit": "上海实达精密不锈钢有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1246,
+      "year": 2019,
+      "workUnit": "格朗吉斯铝业（上海）有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1247,
+      "year": 2019,
+      "workUnit": "上海鑫冶铜业有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1248,
+      "year": 2019,
+      "workUnit": "上海龙阳精密复合铜管有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1249,
+      "year": 2019,
+      "workUnit": "上海海亮铜业有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1250,
+      "year": 2019,
+      "workUnit": "上海五星铜业股份有限公司（原五星铜业（上海）有限公司）",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1251,
+      "year": 2019,
+      "workUnit": "上海南汇立达铸造有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1252,
+      "year": 2019,
+      "workUnit": "上海神火铝箔有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1253,
+      "year": 2019,
+      "workUnit": "上海华新合金有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1254,
+      "year": 2019,
+      "workUnit": "上海日光铜业有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1255,
+      "year": 2019,
+      "workUnit": "中国石化上海石油化工股份有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1256,
+      "year": 2019,
+      "workUnit": "中国石化上海高桥石油化工有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1257,
+      "year": 2019,
+      "workUnit": "上海华谊能源化工有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1258,
+      "year": 2019,
+      "workUnit": "上海赛科石油化工有限责任公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1259,
+      "year": 2019,
+      "workUnit": "上海氯碱化工股份有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1260,
+      "year": 2019,
+      "workUnit": "宝武炭材料科技有限公司 （原上海宝钢化工有限公司）",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1261,
+      "year": 2019,
+      "workUnit": "上海化学工业区工业气体有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1262,
+      "year": 2019,
+      "workUnit": "上海卡博特化工有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1263,
+      "year": 2019,
+      "workUnit": "科思创聚合物（中国）有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1264,
+      "year": 2019,
+      "workUnit": "巴斯夫化工有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1265,
+      "year": 2019,
+      "workUnit": "上海巴斯夫聚氨酯有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1266,
+      "year": 2019,
+      "workUnit": "远纺工业（上海）有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1267,
+      "year": 2019,
+      "workUnit": "上海石化比欧西气体有限责任公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1268,
+      "year": 2019,
+      "workUnit": "亚东石化（上海）有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1269,
+      "year": 2019,
+      "workUnit": "赢创特种化学（上海）有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1270,
+      "year": 2019,
+      "workUnit": "上海联恒异氰酸酯有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1271,
+      "year": 2019,
+      "workUnit": "上海华林工业气体有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1272,
+      "year": 2019,
+      "workUnit": "上海中石化三井化工有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1273,
+      "year": 2019,
+      "workUnit": "璐彩特国际（中国）化工有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1274,
+      "year": 2019,
+      "workUnit": "巴斯夫新材料有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1275,
+      "year": 2019,
+      "workUnit": "上海庄臣有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1276,
+      "year": 2019,
+      "workUnit": "上海金菲石油化工有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1277,
+      "year": 2019,
+      "workUnit": "普莱克斯（上海）半导体气体有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1278,
+      "year": 2019,
+      "workUnit": "上海阿科玛双氧水有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1279,
+      "year": 2019,
+      "workUnit": "圣莱科特精细化工（上海）有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1280,
+      "year": 2019,
+      "workUnit": "盛品精密气体(上海)有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1281,
+      "year": 2019,
+      "workUnit": "上海大阳日酸气体有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1282,
+      "year": 2019,
+      "workUnit": "上海金发科技发展有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1283,
+      "year": 2019,
+      "workUnit": "巴斯夫高桥特性化学品（上海）有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1284,
+      "year": 2019,
+      "workUnit": "上海亨斯迈聚氨酯有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1285,
+      "year": 2019,
+      "workUnit": "上海华谊精细化工有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1286,
+      "year": 2019,
+      "workUnit": "上海焦化化工发展商社",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1287,
+      "year": 2019,
+      "workUnit": "上海元邦化工制造有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1288,
+      "year": 2019,
+      "workUnit": "先尼科化工（上海）有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1289,
+      "year": 2019,
+      "workUnit": "上海米其林轮胎有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1290,
+      "year": 2019,
+      "workUnit": "上海温龙化纤有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    },
+    {
+      "id": 1291,
+      "year": 2019,
+      "workUnit": "英威达特种纤维（上海）有限公司",
+      "trade": "工业",
+      "regionalLevel": "上海"
+    }
+  ],
+  "hb": [
+    {
+      "id": 525,
+      "year": 2017,
+      "workUnit": "长利玻璃洪湖有限公司(原武汉 长利玻璃有限责任公司)",
+      "trade": "玻璃及其他建材",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 526,
+      "year": 2017,
+      "workUnit": "武汉长利玻璃(汉南)有限公司",
+      "trade": "玻璃及其他建材",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 527,
+      "year": 2017,
+      "workUnit": "明达玻璃(武汉)有限公司",
+      "trade": "玻璃及其他建材",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 528,
+      "year": 2017,
+      "workUnit": "武汉武新新型建材股份有限公司",
+      "trade": "玻璃及其他建材",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 529,
+      "year": 2017,
+      "workUnit": "武汉鑫缘绿色冶金渣技术开发有 限公司",
+      "trade": "水泥",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 530,
+      "year": 2017,
+      "workUnit": "湖北华电武昌热电有限公司",
+      "trade": "电力",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 531,
+      "year": 2017,
+      "workUnit": "国电长源第一发电有限责任公司",
+      "trade": "电力",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 532,
+      "year": 2017,
+      "workUnit": "国电青山热电有限公司",
+      "trade": "电力",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 533,
+      "year": 2017,
+      "workUnit": "华能武汉发电有限责任公司",
+      "trade": "电力",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 534,
+      "year": 2017,
+      "workUnit": "武汉汉能电力发展有限公司",
+      "trade": "电力",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 535,
+      "year": 2017,
+      "workUnit": "武汉汉口绿色能源有限公司",
+      "trade": "电力",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 536,
+      "year": 2017,
+      "workUnit": "武汉有机实业有限公司",
+      "trade": "化工",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 537,
+      "year": 2017,
+      "workUnit": "武汉中东磷业科技有限公司",
+      "trade": "化工",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 538,
+      "year": 2017,
+      "workUnit": "武汉钢铁石化工业气体有限责任 公司",
+      "trade": "化工",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 539,
+      "year": 2017,
+      "workUnit": "神龙汽车有限公司",
+      "trade": "汽车制造",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 540,
+      "year": 2017,
+      "workUnit": "湖北能源东湖燃机热电有限公司",
+      "trade": "热力及热电联产",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 541,
+      "year": 2017,
+      "workUnit": "武汉钢铁(集团)公司",
+      "trade": "钢铁",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 542,
+      "year": 2017,
+      "workUnit": "武汉顺乐不锈钢有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 543,
+      "year": 2017,
+      "workUnit": "武汉钢铁集团金属资源有限责任 公司",
+      "trade": "钢铁",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 544,
+      "year": 2017,
+      "workUnit": "武汉晨鸣乾能热电有限责任公司",
+      "trade": "热力及热电联产",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 545,
+      "year": 2017,
+      "workUnit": "中国石油化工股份有限公司武汉 分公司",
+      "trade": "石化",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 546,
+      "year": 2017,
+      "workUnit": "中韩(武汉)石油化工有限公司",
+      "trade": "石化",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 547,
+      "year": 2017,
+      "workUnit": "中国石化集团资产经营管理有限 公司武汉分公司",
+      "trade": "石化",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 548,
+      "year": 2017,
+      "workUnit": "中石化石油工程机械有限公司",
+      "trade": "石化",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 549,
+      "year": 2017,
+      "workUnit": "武汉亚鑫水泥有限公司",
+      "trade": "水泥",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 550,
+      "year": 2017,
+      "workUnit": "湖北亚东水泥有限公司",
+      "trade": "水泥",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 551,
+      "year": 2017,
+      "workUnit": "武汉武钢华新水泥有限责任公司",
+      "trade": "水泥",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 552,
+      "year": 2017,
+      "workUnit": "武汉亚东水泥有限公司",
+      "trade": "水泥",
+      "regionalLevel": "武汉"
+    },
+    {
+      "id": 625,
+      "year": 2017,
+      "workUnit": "稳健医疗(黄冈)有限公司",
+      "trade": "医药",
+      "regionalLevel": "黄冈"
+    },
+    {
+      "id": 626,
+      "year": 2017,
+      "workUnit": "湖北省宏源药业科技股份有限公 司",
+      "trade": "医药",
+      "regionalLevel": "黄冈"
+    },
+    {
+      "id": 627,
+      "year": 2017,
+      "workUnit": "湖北新万兴瓷业有限公司",
+      "trade": "陶瓷制造",
+      "regionalLevel": "黄冈"
+    },
+    {
+      "id": 628,
+      "year": 2017,
+      "workUnit": "湖北中陶实业有限公司",
+      "trade": "陶瓷制造",
+      "regionalLevel": "黄冈"
+    },
+    {
+      "id": 629,
+      "year": 2017,
+      "workUnit": "湖北恒新陶瓷有限公司",
+      "trade": "陶瓷制造",
+      "regionalLevel": "黄冈"
+    },
+    {
+      "id": 630,
+      "year": 2017,
+      "workUnit": "湖北中瓷万达陶瓷有限公司",
+      "trade": "陶瓷制造",
+      "regionalLevel": "黄冈"
+    },
+    {
+      "id": 631,
+      "year": 2017,
+      "workUnit": "泰山石膏(湖北)有限公司",
+      "trade": "玻璃及其他建材",
+      "regionalLevel": "黄冈"
+    },
+    {
+      "id": 632,
+      "year": 2017,
+      "workUnit": "湖北广济药业股份有限公司",
+      "trade": "医药",
+      "regionalLevel": "黄冈"
+    },
+    {
+      "id": 633,
+      "year": 2017,
+      "workUnit": "武穴市永安玻业有限公司",
+      "trade": "玻璃及其他建材",
+      "regionalLevel": "黄冈"
+    },
+    {
+      "id": 634,
+      "year": 2017,
+      "workUnit": "湖北华电襄阳发电有限公司",
+      "trade": "电力",
+      "regionalLevel": "襄阳"
+    },
+    {
+      "id": 635,
+      "year": 2017,
+      "workUnit": "湖北立晋钢铁集团有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "襄阳"
+    },
+    {
+      "id": 636,
+      "year": 2017,
+      "workUnit": "谷城县富园化肥有限责任公司",
+      "trade": "化工",
+      "regionalLevel": "襄阳"
+    },
+    {
+      "id": 637,
+      "year": 2017,
+      "workUnit": "襄阳泽东化工集团有限公司",
+      "trade": "化工",
+      "regionalLevel": "襄阳"
+    },
+    {
+      "id": 638,
+      "year": 2017,
+      "workUnit": "保康楚烽化工有限责任公司",
+      "trade": "化工",
+      "regionalLevel": "襄阳"
+    },
+    {
+      "id": 639,
+      "year": 2017,
+      "workUnit": "湖北新鄂西化工有限公司",
+      "trade": "化工",
+      "regionalLevel": "襄阳"
+    },
+    {
+      "id": 640,
+      "year": 2017,
+      "workUnit": "襄阳龙蟒钛业有限公司",
+      "trade": "化工",
+      "regionalLevel": "襄阳"
+    },
+    {
+      "id": 641,
+      "year": 2017,
+      "workUnit": "湖北龙祥磷化有限公司",
+      "trade": "化工",
+      "regionalLevel": "襄阳"
+    },
+    {
+      "id": 642,
+      "year": 2017,
+      "workUnit": "嘉施利(宜城)化肥有限公司",
+      "trade": "化工",
+      "regionalLevel": "襄阳"
+    },
+    {
+      "id": 643,
+      "year": 2017,
+      "workUnit": "襄阳兴发化工有限公司",
+      "trade": "化工",
+      "regionalLevel": "襄阳"
+    },
+    {
+      "id": 644,
+      "year": 2017,
+      "workUnit": "博拉经纬纤维有限公司",
+      "trade": "纺织业",
+      "regionalLevel": "襄阳"
+    },
+    {
+      "id": 645,
+      "year": 2017,
+      "workUnit": "葛洲坝兴山水泥有限公司",
+      "trade": "水泥",
+      "regionalLevel": "襄阳"
+    },
+    {
+      "id": 646,
+      "year": 2017,
+      "workUnit": "华新水泥(秭归)有限公司",
+      "trade": "水泥",
+      "regionalLevel": "襄阳"
+    }
+  ],
+  "cq": [],
+  "sz": [],
+  "fj": [
+    {
+      "id": 1,
+      "year": 2020,
+      "workUnit": "福建华电可门发电有限公司",
+      "trade": "发电",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 2,
+      "year": 2020,
+      "workUnit": "国电福州发电有限公司",
+      "trade": "发电",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 3,
+      "year": 2020,
+      "workUnit": "华能国际电力股份有限公司福州电厂",
+      "trade": "发电",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 4,
+      "year": 2020,
+      "workUnit": "国网福建省电力有限公司",
+      "trade": "电网",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 5,
+      "year": 2020,
+      "workUnit": "福建省金盛钢业有限责任公司",
+      "trade": "钢铁",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 6,
+      "year": 2020,
+      "workUnit": "福建吴航不锈钢制品有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 7,
+      "year": 2020,
+      "workUnit": "宝钢德盛不锈钢有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 8,
+      "year": 2020,
+      "workUnit": "福建亿鑫钢铁有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 9,
+      "year": 2020,
+      "workUnit": "福建罗源闽光钢铁有限责任公司",
+      "trade": "钢铁",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 10,
+      "year": 2020,
+      "workUnit": "福建罗源小蕉轧钢有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 11,
+      "year": 2020,
+      "workUnit": "福州吴航钢铁制品有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 12,
+      "year": 2020,
+      "workUnit": "福建省长乐市宏顺型材有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 13,
+      "year": 2020,
+      "workUnit": "福建省长乐市永盛金属制品有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 14,
+      "year": 2020,
+      "workUnit": "福建空分气体有限公司",
+      "trade": "化工",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 15,
+      "year": 2020,
+      "workUnit": "福建省东南电化股份有限公司",
+      "trade": "化工",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 16,
+      "year": 2020,
+      "workUnit": "福州一化化学品股份有限公司",
+      "trade": "化工",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 17,
+      "year": 2020,
+      "workUnit": "福州耀隆化工集团有限公司",
+      "trade": "化工",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 18,
+      "year": 2020,
+      "workUnit": "侨源气体（福州）有限公司",
+      "trade": "化工",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 19,
+      "year": 2020,
+      "workUnit": "福建天辰耀隆新材料有限公司",
+      "trade": "化工",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 20,
+      "year": 2020,
+      "workUnit": "福耀玻璃工业集团股份有限公司",
+      "trade": "平板玻璃",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 21,
+      "year": 2020,
+      "workUnit": "福州航空有限责任公司",
+      "trade": "航空公司",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 22,
+      "year": 2020,
+      "workUnit": "福建省闽清金城陶瓷有限公司",
+      "trade": "陶瓷",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 23,
+      "year": 2020,
+      "workUnit": "福建省闽清中菱陶瓷有限公司",
+      "trade": "陶瓷",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 24,
+      "year": 2020,
+      "workUnit": "福建省闽清富顺陶瓷有限公司",
+      "trade": "陶瓷",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 25,
+      "year": 2020,
+      "workUnit": "福建省闽清瑞美陶瓷有限公司",
+      "trade": "陶瓷",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 26,
+      "year": 2020,
+      "workUnit": "福建省闽清三得利陶瓷有限公司",
+      "trade": "陶瓷",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 27,
+      "year": 2020,
+      "workUnit": "福建省闽清欧尚陶瓷有限公司",
+      "trade": "陶瓷",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 28,
+      "year": 2020,
+      "workUnit": "福建省闽清双兴陶瓷有限公司",
+      "trade": "陶瓷",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 29,
+      "year": 2020,
+      "workUnit": "福州仁顺陶瓷有限公司",
+      "trade": "陶瓷",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 30,
+      "year": 2020,
+      "workUnit": "闽清嘉兴陶瓷有限公司",
+      "trade": "陶瓷",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 31,
+      "year": 2020,
+      "workUnit": "福建省闽清港城瓷料有限公司",
+      "trade": "陶瓷",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 32,
+      "year": 2020,
+      "workUnit": "福建省闽清欧美陶瓷有限公司",
+      "trade": "陶瓷",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 33,
+      "year": 2020,
+      "workUnit": "福建省闽清豪业陶瓷有限公司",
+      "trade": "陶瓷",
+      "regionalLevel": "福州"
+    },
+    {
+      "id": 52,
+      "year": 2020,
+      "workUnit": "东亚电力（厦门）有限公司",
+      "trade": "发电",
+      "regionalLevel": "厦门"
+    },
+    {
+      "id": 53,
+      "year": 2020,
+      "workUnit": "厦门华夏国际电力发展有限公司",
+      "trade": "发电",
+      "regionalLevel": "厦门"
+    },
+    {
+      "id": 54,
+      "year": 2020,
+      "workUnit": "厦门瑞新热电有限公司",
+      "trade": "发电",
+      "regionalLevel": "厦门"
+    },
+    {
+      "id": 55,
+      "year": 2020,
+      "workUnit": "厦门同集热电有限公司",
+      "trade": "发电",
+      "regionalLevel": "厦门"
+    },
+    {
+      "id": 56,
+      "year": 2020,
+      "workUnit": "厦门海发环保能源股份有限公司",
+      "trade": "发电",
+      "regionalLevel": "厦门"
+    },
+    {
+      "id": 57,
+      "year": 2020,
+      "workUnit": "腾龙特种树脂（厦门）有限公司",
+      "trade": "发电",
+      "regionalLevel": "厦门"
+    },
+    {
+      "id": 58,
+      "year": 2020,
+      "workUnit": "林德气体（厦门）有限公司",
+      "trade": "化工",
+      "regionalLevel": "厦门"
+    },
+    {
+      "id": 59,
+      "year": 2020,
+      "workUnit": "元翔（厦门）国际航空港股份有限公司",
+      "trade": "机场",
+      "regionalLevel": "厦门"
+    },
+    {
+      "id": 60,
+      "year": 2020,
+      "workUnit": "厦门三荣陶瓷开发有限公司",
+      "trade": "陶瓷",
+      "regionalLevel": "厦门"
+    },
+    {
+      "id": 61,
+      "year": 2020,
+      "workUnit": "福建三宝钢铁有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "漳州"
+    },
+    {
+      "id": 62,
+      "year": 2020,
+      "workUnit": "福建凯景新型科技材料有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "漳州"
+    },
+    {
+      "id": 63,
+      "year": 2020,
+      "workUnit": "福建福欣特殊钢有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "漳州"
+    },
+    {
+      "id": 64,
+      "year": 2020,
+      "workUnit": "首钢凯西钢铁有限公司",
+      "trade": "钢铁",
+      "regionalLevel": "漳州"
+    },
+    {
+      "id": 65,
+      "year": 2020,
+      "workUnit": "福建糖业股份公司",
+      "trade": "发电",
+      "regionalLevel": "漳州"
+    },
+    {
+      "id": 66,
+      "year": 2020,
+      "workUnit": "腾龙芳烃（漳州）有限公司",
+      "trade": "发电",
+      "regionalLevel": "漳州"
+    },
+    {
+      "id": 67,
+      "year": 2020,
+      "workUnit": "华阳电业有限公司",
+      "trade": "发电",
+      "regionalLevel": "漳州"
+    },
+    {
+      "id": 68,
+      "year": 2020,
+      "workUnit": "漳州盈晟纸业有限公司",
+      "trade": "造纸",
+      "regionalLevel": "漳州"
+    },
+    {
+      "id": 69,
+      "year": 2020,
+      "workUnit": "漳州友利达纸业发展有限公司",
+      "trade": "造纸",
+      "regionalLevel": "漳州"
+    }
+  ]
+}
